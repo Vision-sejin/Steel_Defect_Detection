@@ -1,6 +1,8 @@
 # Steel_Defect_Detection
 Steel_defect_detection
 
+1. Project description and goals
+
 My project is Steel defect detection. Originally defect detection is very important research field 
 in manufacturing-based company. Because if there is a defect production, their company loses 
 trust from customers. So, in the process of production, defect things can cause very big issue 
