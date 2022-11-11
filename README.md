@@ -9,3 +9,8 @@ trust from customers. So, in the process of production, defect things can cause 
 to them. Therefore, in the view of ai engineer, I want to make a defect detection model about 
 steel. And my final goal is to make the best performance or state of the art performance in this 
 field
+
+2. Resources
+
+3. goals
+aa
