@@ -13,4 +13,3 @@ field
 2. Resources
 
 3. goals
-aa
