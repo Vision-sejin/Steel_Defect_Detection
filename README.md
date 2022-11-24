@@ -10,6 +10,6 @@ to them. Therefore, in the view of ai engineer, I want to make a defect detectio
 steel. And my final goal is to make the best performance or state of the art performance in this 
 field.
 
-2. Resourcesaaa
+2. Resources
 
 3. goals
